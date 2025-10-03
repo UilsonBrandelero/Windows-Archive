@@ -20,19 +20,34 @@ also from the official Microsoft website and accessed on the same date, were als
 ## Links
 Open in new tab
 
-- <a href="https://google.com" target="_parent">Windows10 22H2 BrazilianPortuguese x32</a></br>
-SHA256 = 69E4B7ED9E5D7CEA72C075E63A493C867275608B8F9E9D1FE7D711459B32D1BE</br>
 
-- <a href="https://google.com" target="_parent">Windows10 22H2 BrazilianPortuguese x64</a></br>
-SHA256 = 0CA714572FCB5B8CE480ACC3C93EAF2F34CC6507DF5F693CFF021BF4A32FAC68</br>
 
-- <a href="https://google.com" target="_parent">Windows10 22H2 EnglishInternational x32</a></br>
-SHA256 = 38D093AE08BF80302B900BC91A2CE5205C5086DDEEFAB29E8D529D5607B6B4DB</br>
+| Version | Architecture | .iso | .zip |
+| :---: | :---: | :---: | :---: |
+|Windows10 22H2 BrazilianPortuguese |x32|<a href = "https://drive.google.com/file/d/1Dgj56X1FCSoC-tcXQv1aNclKSvMg60VW/view?usp=drive_link">Google Drive</a> |<a href="https://mega.nz/file/Z6xwCQxA#Xh31JpMzyhvPRU3AzIXPwiLLhqUEyjg2UFLGxGRlTbs">Mega</a>  |
+|Windows10 22H2 BrazilianPortuguese |x64|<a href = "https://drive.google.com/file/d/1wPoiSBgcD2lFj4MIG7WWnsE4wHLzkP5n/view?usp=drive_link">Google Drive</a> |<a href="https://mega.nz/file/xrwjDBDQ#xJUohkbprWH6TzafRiL56J06OEjkQAQW2sJ-bDYGhyM">Mega</a>|
+||
+|Windows10 22H2 EnglishInternational |x32|<a href="https://drive.google.com/file/d/1rYtN1LR4d7kp6S83z-zp51Y3GAKsilVl/view?usp=drive_link">Google Drive</a> |<a href="https://mega.nz/file/p3xllSIC#jVS-lGu0XJClYQ_WtE6ZrM5vsU8LCCu480SDNUQfC3U">Mega</a> |
+|Windows10 22H2 EnglishInternational |x64|<a href="https://drive.google.com/file/d/1Qfx-d2NzS2uoMoevybEJyD7LkWY0aR18/view?usp=drive_link">Google Drive</a> |<a href="https://mega.nz/file/Fiw0yCoT#SDgGgHPA3Cj5QiGTAnAQzotRJE4GI-0Q0C6ZwsXxCrE">Mega</a> |
 
-- <a href="https://drive.google.com/file/d/1rYtN1LR4d7kp6S83z-zp51Y3GAKsilVl/view?usp=sharing" target="_parent">Windows10 22H2 EnglishInternational x64</a></br>
-SHA256 = EDC53C5C5FE6926DEA23FC3E884FBCF78CC2B9E76364BE968F806FC6D42B59D2</br>
+#### pt-BR 🇧🇷
+Qualquer erro ou falha em algum link sinta-se a vontade para abrir uma issue e deixar sua mensagem
 
-## Hash verification 
+#### en-us 🇺🇸
+Any error or failure in any link, feel free to open an issue and leave your message.
+
+## Hash verification
+
+|Version|Hash SHA256|
+| :---: | :---: |
+|Windows10 22H2 BrazilianPortuguese x32|69E4B7ED9E5D7CEA72C075E63A493C867275608B8F9E9D1FE7D711459B32D1BE|
+|Windows10 22H2 BrazilianPortuguese x64|0CA714572FCB5B8CE480ACC3C93EAF2F34CC6507DF5F693CFF021BF4A32FAC68|
+||
+|Windows10 22H2 EnglishInternational x32|38D093AE08BF80302B900BC91A2CE5205C5086DDEEFAB29E8D529D5607B6B4DB|
+|Windows10 22H2 EnglishInternational x64|EDC53C5C5FE6926DEA23FC3E884FBCF78CC2B9E76364BE968F806FC6D42B59D2|
+
+
+ 
 - ### Linux
   Type in terminal: **sha256sum /path/for/archive.iso**
 
