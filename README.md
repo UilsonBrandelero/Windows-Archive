@@ -27,7 +27,7 @@ Open in new tab
 |Windows10 22H2 BrazilianPortuguese |x32|<a href = "https://drive.google.com/file/d/1Dgj56X1FCSoC-tcXQv1aNclKSvMg60VW/view?usp=drive_link">Google Drive</a> |<a href="https://mega.nz/file/Z6xwCQxA#Xh31JpMzyhvPRU3AzIXPwiLLhqUEyjg2UFLGxGRlTbs">Mega</a>  |
 |Windows10 22H2 BrazilianPortuguese |x64|<a href = "https://drive.google.com/file/d/1wPoiSBgcD2lFj4MIG7WWnsE4wHLzkP5n/view?usp=drive_link">Google Drive</a> |<a href="https://mega.nz/file/xrwjDBDQ#xJUohkbprWH6TzafRiL56J06OEjkQAQW2sJ-bDYGhyM">Mega</a>|
 ||
-|Windows10 22H2 EnglishInternational |x32|<a href="https://drive.google.com/file/d/1rYtN1LR4d7kp6S83z-zp51Y3GAKsilVl/view?usp=drive_link">Google Drive</a> |<a href="https://mega.nz/file/p3xllSIC#jVS-lGu0XJClYQ_WtE6ZrM5vsU8LCCu480SDNUQfC3U">Mega</a> |
+|Windows10 22H2 EnglishInternational |x32|<a href="https://drive.google.com/file/d/1Qfx-d2NzS2uoMoevybEJyD7LkWY0aR18/view?usp=sharing">Google Drive</a> |<a href="https://mega.nz/file/p3xllSIC#jVS-lGu0XJClYQ_WtE6ZrM5vsU8LCCu480SDNUQfC3U">Mega</a> |
 |Windows10 22H2 EnglishInternational |x64|<a href="https://drive.google.com/file/d/1Qfx-d2NzS2uoMoevybEJyD7LkWY0aR18/view?usp=drive_link">Google Drive</a> |<a href="https://mega.nz/file/Fiw0yCoT#SDgGgHPA3Cj5QiGTAnAQzotRJE4GI-0Q0C6ZwsXxCrE">Mega</a> |
 
 #### pt-BR 🇧🇷
